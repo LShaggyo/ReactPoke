@@ -13,7 +13,7 @@ export const Footer = () => {
       <p>Disfruta la Pokédex</p>
       <p className="chic-text">LShaggyo</p>
       <a
-        href="https://github.com/l-Shaggyo"
+        href="https://github.com/LShaggyo"
         target="_blank"
         rel="noopener noreferrer"
         className="github-link"
