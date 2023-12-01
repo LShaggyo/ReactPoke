@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo {
+  max-width: 24px;
+}
+
+.brand, .item-link {
+  max-height: 30px;
+}
+
+.item-link {
+  padding: 3px;
+}
+
+.img-card-show {
+  object-fit: cover;
+  height: 200px;
+}
+
+.bg-body-tertiary {
+  background-color: #ff0000; /* Rojo - puedes ajustar el código de color según tus preferencias */
+}

@@ -1,0 +1,21 @@
+/* Header.css */
+
+.navbar {
+    background-color: lightgreen; /* Fondo verde claro */
+  }
+  
+  .navbar-nav .nav-link {
+    color: yellow !important; /* Texto amarillo */
+  }
+  
+  .nav-link {
+    border: 1px solid blue; /* Borde azul */
+    border-radius: 5px; /* Borde redondeado */
+    padding: 8px 15px; /* Ajustes de padding para un aspecto más agradable */
+  }
+  
+  .nav-item.active .nav-link {
+    background-color: transparent !important; /* Elimina el fondo activo predeterminado */
+    border-color: transparent !important; /* Elimina el borde activo predeterminado */
+  }
+  

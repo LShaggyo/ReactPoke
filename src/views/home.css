@@ -1,0 +1,19 @@
+.btn-3d {
+    background-color: #007bff;
+    border-color: #007bff;
+    box-shadow: 0 4px 0 #0056b3; /* Agrega sombra en la parte inferior para efecto 3D */
+    transition: all 0.3s ease; /* Transición suave */
+  }
+  
+  .btn-3d:hover,
+  .btn-3d:focus {
+    background-color: #0056b3; /* Cambia el color al pasar el ratón o enfocar */
+    border-color: #0056b3;
+    box-shadow: 0 2px 0 #003366; /* Ajusta la sombra para efecto de hundimiento */
+  }
+  
+  .btn-3d:active {
+    background-color: #004080; /* Cambia el color al presionar */
+    border-color: #004080;
+    box-shadow: none; /* Elimina la sombra al presionar */
+  }

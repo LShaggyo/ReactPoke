@@ -1,0 +1,21 @@
+footer {
+    background-color: #f8f9fa; 
+    padding: 20px;
+  }
+  
+.footer-img {
+    filter: grayscale(80%);
+  } 
+
+.chic-text {
+    font-style: italic;
+    font-size: 18px;
+    color: #333; 
+  }
+  
+  .github-link {
+    color: #000; 
+    margin-top: 10px;
+    display: block;
+  }
+  
